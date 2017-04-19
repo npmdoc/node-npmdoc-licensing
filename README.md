@@ -1,9 +1,14 @@
-# api documentation for  [licensing (v0.1.0)](https://github.com/3rd-Eden/licensing)  [![npm package](https://img.shields.io/npm/v/npmdoc-licensing.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-licensing) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-licensing.svg)](https://travis-ci.org/npmdoc/node-npmdoc-licensing)
+# npmdoc-licensing
+
+#### api documentation for  [licensing (v0.1.0)](https://github.com/3rd-Eden/licensing)  [![npm package](https://img.shields.io/npm/v/npmdoc-licensing.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-licensing) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-licensing.svg)](https://travis-ci.org/npmdoc/node-npmdoc-licensing)
+
 #### Discover the license footprint of your application
 
-[![NPM](https://nodei.co/npm/licensing.png?downloads=true)](https://www.npmjs.com/package/licensing)
+[![NPM](https://nodei.co/npm/licensing.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/licensing)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-licensing/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-licensing_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-licensing/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-licensing/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-licensing/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-licensing/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-licensing/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-licensing/build/screenCapture.npmPackageListing.svg)
 
@@ -47,13 +52,11 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "V1",
-            "email": "info@3rd-Eden.com"
+            "name": "V1"
         }
     ],
     "name": "licensing",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/3rd-Eden/licensing.git"
@@ -64,16 +67,6 @@
     "version": "0.1.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module licensing](#apidoc.module.licensing)
-
-
-
-# <a name="apidoc.module.licensing"></a>[module licensing](#apidoc.module.licensing)
 
 
 
